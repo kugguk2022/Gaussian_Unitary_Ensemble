@@ -142,7 +142,5 @@ PATCH_NOTES_v2.md
 ---
 
 ## License
-No license is included yet. If you want external contributions, add one (MIT/BSD/Apache-2.0).
-
-
+MIT
 - 
